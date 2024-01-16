@@ -36,10 +36,10 @@
   </h2>
 
   <div>
-    <img src="[/assets/html.gif](https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif)" width="50px" />
-    <img src="./assets/css.gif" width="50px" />
-    <img src="[./assets/js.gif](https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif)" width="50px" />
-    <img src="./assets/react.gif" width="50px" />
+    <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="50px" />
+    <img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" width="50px" />
+    <img src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif" width="50px" />
+    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50px" />
   </div>
   
 <h2>
@@ -56,21 +56,21 @@
       href="https://twitter.com/"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/alerxses-22092C?style=flat-square&logo=x"
+        src="https://img.shields.io/badge/Gustavo1778-22092C?style=flat-square&logo=x"
         alt="twitter" />
     </a>
     <a
       href="https://www.linkedin.com/"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/aleroses-black?style=social&logo=linkedin"
+        src="https://img.shields.io/badge/Gustavo1778-black?style=social&logo=linkedin"
         t="linkedin" />
     </a>
     <a
       href="https://github.com/Gustavo1778"
       target="_blank">
       <img
-        src="https://img.shields.io/badge/aleroses-black?style=flat-square&logo=github"
+        src="https://img.shields.io/badge/Gustavo1778-black?style=flat-square&logo=github"
         t="github" />
     </a>
     
