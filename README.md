@@ -36,12 +36,12 @@
   </h2>
 
   <div>
-    <img src="./assets/html.gif" width="50px" />
+    <img src=".[/assets/html.gif](https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif)" width="50px" />
     <img src="./assets/css.gif" width="50px" />
     <img src="./assets/js.gif" width="50px" />
     <img src="./assets/react.gif" width="50px" />
   </div>
-
+  
 <h2>
   <picture
     ><img
