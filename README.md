@@ -2,7 +2,7 @@
   <div align="top">
     <a href="https://git.io/typing-svg"
       ><img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=800&color=4F46E5&random=false&width=600&height=60&lines=Welcome!+I'm+Gus+Palacios;Software+Engineering+is+my+2nd+career.+;I+like+to+learn+things+%F0%9F%A4%97"
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=800&color=4F46E5&random=false&width=600&height=60&lines=Welcome!+I'm+Gus+Palacios;Software+Engineering+is+my+career.+;I+like+to+learn+things+%F0%9F%A4%97"
         alt="Typing SVG"
     /></a>
   </div>
@@ -53,21 +53,21 @@
 
 <div align="left">
     <a
-      href="https://twitter.com/alerxses"
+      href="https://twitter.com/"
       target="_blank">
       <img
         src="https://img.shields.io/badge/alerxses-22092C?style=flat-square&logo=x"
         alt="twitter" />
     </a>
     <a
-      href="https://www.linkedin.com/in/ale-roses/"
+      href="https://www.linkedin.com/"
       target="_blank">
       <img
         src="https://img.shields.io/badge/aleroses-black?style=social&logo=linkedin"
         t="linkedin" />
     </a>
     <a
-      href="https://github.com/aleroses"
+      href="https://github.com/Gustavo1778"
       target="_blank">
       <img
         src="https://img.shields.io/badge/aleroses-black?style=flat-square&logo=github"
