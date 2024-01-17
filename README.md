@@ -6,18 +6,19 @@
         alt="Typing SVG"
     /></a>
   </div>
-
 <img
     align="right"
     width="260"
     alt="Shimarin"
     src="./assets/mf-heavy.gif" />
-
   <h2>
-    <picture
-      ><img src="./assets/about_me.gif" width="25px"
+    <picture>
+      ><img src="https://pa1.aminoapps.com/6547/6ff6730ac7ae0ceaac2c00664f0016d794af4859_00.gif" width="45px"
     /></picture>
-    / About me /
+     About me
+    <picture>
+      ><img src="https://media0.giphy.com/media/IQebREsGFRXmo/200w.gif?cid=6c09b952i0c7kfcsn89pu6xpbsa1c6b7b39v9usfzx4g7d9v&ep=v1_gifs_search&rid=200w.gif&ct=s" width="45px"
+    /></picture>
   </h2>
 
   <ul>
@@ -30,25 +31,33 @@
 
   <h2>
     <picture
-      ><img src="./assets/skills.gif" width="25px"
+      ><img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1612.gif" width="35px"
     /></picture>
-    / Current skills /
+     Current skills
+    <picture
+      ><img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1612.gif" width="35px"
+    /></picture>
   </h2>
 
   <div>
     <img src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" width="50px" />
-    <img src="https://cdn.dribbble.com/users/2442115/screenshots/8699490/media/48bbda278683c7879bebd57f0e2f9271.gif" width="50px" />
-    <img src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif" width="50px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50px" />
+    <img src="https://www.alura.com.br/artigos/assets/html-css-js/imagem-1.png" width="50px" />
     <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50px" />
   </div>
   
 <h2>
   <picture
     ><img
-      src="./assets/hollor_knight3.gif"
-      width="25px"
+      src="https://gifimgs.com/animations/anime/dragon-ball-z/Goku/goku_73.gif"
+      width="30px"
   /></picture>
-  / How to reach me /
+   How to reach me
+  <picture
+    ><img
+      src="https://gifimgs.com/animations/anime/dragon-ball-z/Goku/goku_73.gif"
+      width="30px"
+  /></picture>
 </h2>
 
 <div align="left">
